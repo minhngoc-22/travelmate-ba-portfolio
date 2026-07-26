@@ -126,6 +126,7 @@ Business Validation
 
 # Repository Structure
 
+```
 TravelMate-BA-Portfolio/
 
 ├── README.md
@@ -143,6 +144,7 @@ TravelMate-BA-Portfolio/
 ├── Assets/
 
 └── TravelMate Portfolio.pdf
+```
 
 ---
 
