@@ -1,13 +1,3 @@
-![Business Analyst](https://img.shields.io/badge/Role-Business%20Analyst-blue)
-
-![Project](https://img.shields.io/badge/Project-TravelMate-success)
-
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-![MVP](https://img.shields.io/badge/MVP-Version%201-orange)
-
-![Portfolio](https://img.shields.io/badge/Portfolio-End--to--End-important)
-
 # ✈️ TravelMate – Business Analyst Portfolio
 
 TravelMate is a fictional travel planning application created as a Business Analysis portfolio project.
@@ -15,6 +5,8 @@ TravelMate is a fictional travel planning application created as a Business Anal
 The objective of this project is to demonstrate end-to-end Business Analysis activities throughout a complete Software Development Life Cycle (SDLC), from business discovery to testing.
 
 This repository showcases how business requirements are analyzed, documented, designed, and validated before software development.
+
+<img width="1376" height="768" alt="prototype_preview" src="https://github.com/user-attachments/assets/d686f003-7d1d-4ff2-9078-bc1145e80efc" />
 
 ---
 
